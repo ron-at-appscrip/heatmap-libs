@@ -1,0 +1,37 @@
+{
+  "name": "heatmap-libs",
+  "version": "1.0.0",
+  "description": "Heatmap libraries including heatmap.js and Leaflet heatmap plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "heatmap",
+    "leaflet",
+    "visualization",
+    "maps",
+    "canvas"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/heatmap-libs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/heatmap-libs/issues"
+  },
+  "homepage": "https://github.com/yourusername/heatmap-libs#readme",
+  "files": [
+    "heatmap.min.js",
+    "leaflet-heatmap.js",
+    "index.js"
+  ],
+  "dependencies": {
+    "leaflet": "^1.9.0"
+  },
+  "peerDependencies": {
+    "leaflet": "^1.9.0"
+  }
+} 
